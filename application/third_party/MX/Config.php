@@ -15,7 +15,7 @@
  * @copyright	Copyright (c) 2011 Wiredesignz, 2015 cconnect
  *
  * function load_db_items, save_db_item, remove_db_item, create_table
- * @author Neil Strey
+ * @author Neil Baker
  *
  * @version 	5.4
  * 
